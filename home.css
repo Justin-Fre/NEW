@@ -1,0 +1,96 @@
+html {
+	scroll-behavior: smooth;
+	font-family:  Helvetica, sans-serif, Arial;
+}
+
+body {
+	margin: 0 auto;
+	background-color: white;
+}
+
+h1 {
+	font-family: Cambria;
+	font-size: 50px;
+	font-weight: normal;
+	text-align: left;
+}
+
+nav {
+    background-color: #454545;
+    padding: 14px 20px;
+    font-family: Cambria;
+	font-size: 20px;
+	text-align: right;
+	font-weight: normal;
+}
+
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #34E5FF;
+}
+
+
+h2 {
+	color: 	#454545;
+	font-family: Cambria;
+	font-size: 40px;
+	text-align: center;
+	font-weight: normal;
+}
+
+
+/*h3 {
+	color: 	#FFF8F0;
+	font-family: Arial;
+	font-size: 40px;
+	padding-left: 20px;
+	font-weight: normal;
+	text-align: left;
+}
+*/
+h3 {
+	color: 	#FFF8F0;
+	font-family: Cambria;
+	font-size: 20px;
+	font-weight: normal;
+	padding-left: 30px;
+	padding-right: 500px;
+    margin-bottom: 10px;
+}
+
+
+h4 {
+	font-family: Cambria;
+	font-size: 20spx;
+	font-weight: normal;
+	text-align: center;
+	bottom: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+ul {
+	color: 	#2F4F4F;
+	font-family: Cambria;
+	font-size: 20px;
+	font-weight: normal;
+	bottom: 0;
+	left: 50px;
+}
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100%;
+}
+
+a {
+    cursor: pointer;
+}
